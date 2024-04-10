@@ -1,0 +1,57 @@
+Web Server:
+----------
+- It resembles both hardware and software, it satisfies the client request by sending and receving data.
+- Web Applications are hosted on Web Server.
+- Web Server are 2 types
+        a) Local Servers
+        b) Cloud Servers
+- Local Servers
+        a) IIS    [ Internet Information Services Manager]
+        b) Tomcat
+        c) WAMP etc..
+
+- Cloud Servers
+        a) GIT HUB Pages
+        b) Firebase
+        c) AWS
+        d) Azure etc..
+
+Web Site:
+---------
+- Website is a virtual directory on Web Server.
+        
+    Server Address    :   http://127.0.0.1     (or)   http://localhost
+
+- Website comprises 2 locations
+        a) Virtual
+        b) Physical
+- Physical path is used by developers to keep all the resources required for website.
+            
+            D:\ProjectName
+
+- Virtual path is used by clients to access the resources from website.
+
+            http://127.0.0.1/ProjectName          [Local]
+            http://www.projectname.com        [cloud]
+
+Web Page:
+---------
+- Webpage provides an UI from where user can interact with the resources present in website.
+- Webpages are classified into 2 types
+        a) Static Page
+        b) Dynamic Page
+- Static Page comprises of same information to send as response across various requests.
+                        .html,  .htm
+
+- Dynamic Page sends response customized for client request. It changes according to request.
+                        .aspx, .asp, .jsp, .php                        
+
+- HTML is a language used for designing both static and dymamic pages.
+
+HTML:
+-----
+- Hyper Text Markup Language
+- Hyper means "Beyond".
+- Hyper text defines some content and take you beyond the content what is displayed.
+- Markup is used for marking up content so that it can be presented exactly as required.
+- Markup Language is a language used for presentations.
